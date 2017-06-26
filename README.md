@@ -1,5 +1,8 @@
 # Coursera Getting and Cleanining Data Project
 
+In order to run this code, the source data (at the end of this document) must be unzipped in a working directory "data" folder using the following:
+"./data/UCI HAR Dataset/"
+
 Script code: https://github.com/Idrisi/CourseraGetandCleanData/blob/master/run_analysis.R
 
 The code completes the following:

@@ -1,8 +1,8 @@
 ## Run_Analysis.R result Code Book
 
--Subject
-	-Integer
-	-1 to 30
+- Subject
+	- Integer
+	- 1 to 30
 
 Activity
 	Factor

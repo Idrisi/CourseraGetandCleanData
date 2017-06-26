@@ -2,7 +2,7 @@
 
 -Subject
 	-Integer
-	-1-30
+	-1 to 30
 
 Activity
 	Factor

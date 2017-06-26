@@ -2,7 +2,7 @@
 
 - Subject
 	- Integer
-	- 1 to 30
+		- 1 to 30
 
 - Activity
 	- Factor
@@ -183,7 +183,7 @@
 	- numeric 
 		- Mean and Standard Deviation of magnitude of the body gyroscope jerk in the frequency domain.
 
-##Notes
+## Notes
 
 Raw Data source: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
 

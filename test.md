@@ -4,14 +4,14 @@
 	- Integer
 	- 1 to 30
 
-Activity
-	Factor
-		Walking
-		Walking_Upstairs
-		Walking_Downstairs
-		Sitting
-		Standing
-		Laying
+- Activity
+	- Factor
+		- Walking
+		- Walking_Upstairs
+		- Walking_Downstairs
+		- Sitting
+		- Standing
+		- Laying
 
 timeBodyAccelerometer.Mean.X
 timeBodyAccelerometer.Mean.Y
